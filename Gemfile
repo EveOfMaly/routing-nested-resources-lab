@@ -13,6 +13,8 @@ group :development, :test do
   gem 'capybara'
   gem 'rspec-rails'
   gem 'shoulda'
+  gem 'table_print'
+  gem 'awesome_print'
 end
 
 group :development do
